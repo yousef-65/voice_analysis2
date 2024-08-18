@@ -1,0 +1,20 @@
+# Core libraries
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+tqdm
+python-box==6.0.2
+pyYAML
+ensure==1.0.2
+joblib
+dvc
+notebook
+scikit-learn
+librosa
+tensorflow
+Flask
+Flask-Cors
+types-PyYAML
+-e .
